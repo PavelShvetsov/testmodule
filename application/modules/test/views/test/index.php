@@ -15,5 +15,5 @@ use app\components\Helper;
 </div>
 <?
 //echo \yii\helpers\Url::toRoute(['edit', 'id' => 3]);
-echo \yii\helpers\Url::toRoute(['/test/test2', 'id' => 2]);
+//echo \yii\helpers\Url::toRoute(['/test/test2', 'id' => 2]);
 ?>
